@@ -15,7 +15,7 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 
 ### Contact me:
 <div id="badges">
-  <a href="alex_st_analyst">
+  <a href="https://t.me/alex_st_analyst">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/> 
     
 #### :hammer_and_wrench: Languages and Tools :    
