@@ -6,10 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
-I'm growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="40"> 
-- :telescope: I’m learning at Yandex.Practicum and will be graduated soon.
-
+### 👨‍🔬: About Me :
+Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="40"> 
+- 👨‍🎓: Studying at Yandex.Practicum to be a Data Analyst.
+- 👨‍🎓: Studying at Tomsk State University to delve into Data Science. 
+- 👨‍💻: Looking for a full-time job as Data Analyst.
+- 👨‍⚕️: Also interested in psychology and self-development.
 
 ### Contact me:
 <div id="badges">
