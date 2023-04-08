@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5zq67EYOQoVoc/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/5zq67EYOQoVoc/giphy.gif" width="400"/>
 </div>
 <h1 align="center">
   Hi there, I'm Alex
@@ -7,7 +7,7 @@
 </h1>
 
 ### 👨‍🔬: About Me :
-Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="40"> 
+Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="70"> 
 - 👨‍🎓: Studying at Yandex.Practicum to be a Data Analyst.
 - 👨‍🎓: Studying at Tomsk State University to delve into Data Science. 
 - 👨‍💻: Looking for a full-time job as Data Analyst.
