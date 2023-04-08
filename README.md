@@ -1,9 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5zq67EYOQoVoc/giphy.gif" width="100"/>
-</div>>
+  <img src="https://media.giphy.com/media/5zq67EYOQoVoc/giphy.gif" width="1000"/>
+</div>
 
-### Hi there 👋
+### Hi there,  👋
 
+<div id="badges">
+  <a href="alex_st_analyst">
+    <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+
+</div>
 <!--
 **AlexSt1985/AlexSt1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
