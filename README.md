@@ -13,10 +13,11 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 - 👨‍💻: Looking for a full-time job as Data Analyst.
 - 👨‍⚕️: Also interested in psychology.
 
-📚 Favorite books:
-<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Q5MVV1MGL.jpg" title="Python" alt="Python" width="70"/>&nbsp;
-<img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Python" alt="Python" width="70"/>&nbsp;
-<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41NqpLrHsNL.jpg" title="Python" alt="Python" width="70"/>&nbsp;
+📚 Prefered books:
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Q5MVV1MGL.jpg" title="Python" alt="Python" width="80"/>&nbsp;
+<img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Python" alt="Python" width="80"/>&nbsp;
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41NqpLrHsNL.jpg" title="Python" alt="Python" width="80"/>&nbsp;
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81-LLWVb0WL.jpg" width="80"/>&nbsp;
 
 ### Contact me:
 <div id="badges">
