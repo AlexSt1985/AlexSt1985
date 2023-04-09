@@ -11,7 +11,12 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 - 👨‍🎓: Studying at Yandex.Practicum to be a Data Analyst.
 - 👨‍🎓: Studying at Tomsk State University to delve into Data Science. 
 - 👨‍💻: Looking for a full-time job as Data Analyst.
-- 👨‍⚕️: Also interested in psychology and self-development.
+- 👨‍⚕️: Also interested in psychology.
+
+📚 Favorite books:
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Q5MVV1MGL.jpg" title="Python" alt="Python" width="70"/>&nbsp;
+<img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Python" alt="Python" width="70"/>&nbsp;
+<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41NqpLrHsNL.jpg" title="Python" alt="Python" width="70"/>&nbsp;
 
 ### Contact me:
 <div id="badges">
