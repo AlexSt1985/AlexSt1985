@@ -8,8 +8,7 @@
 
 ### 👨‍🔬: About Me :
 Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="70"> 
-- 👨‍🎓: Studying at Yandex.Practicum to be a Data Analyst.
-- 👨‍🎓: Studying at Tomsk State University to delve into Data Science. 
+- 👨‍🎓: Graduated from Yandex.Practicum as Data Analyst.
 - 👨‍💻: Looking for a full-time job as Data Analyst.
 - 👨‍⚕️: Also interested in psychology.
 
