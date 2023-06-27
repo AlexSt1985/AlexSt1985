@@ -16,7 +16,7 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 <img src="https://ir.ozone.ru/s3/multimedia-o/wc1000/6248682660.jpg" title="Systems thinking" alt="Systems thinking" width="80"/>&nbsp;
 <img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Хлопок одной ладонью" alt="Хлопок одной ладонью" width="80"/>&nbsp;
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a2c4e7fb-c3f0-45c5-a44c-a6fd2c7e7050/1920x" title="Purcupines" alt="Purcupines" width="80"/>&nbsp;
-<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81-LLWVb0WL.jpg" title="Djokovic" alt="Djokovic" width="80"/>&nbsp;
+<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/0f66ad87-7672-457b-a103-8a37382e9d49/1920x" title="AI" alt="AI" width="80"/>&nbsp;
 
 ### Contact me:
 <div id="badges">
