@@ -12,7 +12,7 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 - 👨‍💻: Looking for a full-time job as Data Analyst.
 - 👨‍⚕️: Also interested in psychology.
 
-📚 Prefered books:
+📚 Prefered books/movies/music:
 <img src="https://ir.ozone.ru/s3/multimedia-o/wc1000/6248682660.jpg" title="Systems thinking" alt="Systems thinking" width="80"/>&nbsp;
 <img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Хлопок одной ладонью" alt="Хлопок одной ладонью" width="80"/>&nbsp;
 <img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41NqpLrHsNL.jpg" title="Purcupines" alt="Purcupines" width="80"/>&nbsp;
