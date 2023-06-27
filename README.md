@@ -13,13 +13,12 @@ Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8
 - 👨‍⚕️: Also interested in psychology.
 
 📚 Prefered books/movies/music:
-<img src="https://ir.ozone.ru/s3/multimedia-o/wc1000/6248682660.jpg" title="Systems thinking" alt="Systems thinking" width="80"/>&nbsp;
 <img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Хлопок одной ладонью" alt="Хлопок одной ладонью" width="80"/>&nbsp;
+<img src="https://ir.ozone.ru/s3/multimedia-o/wc1000/6248682660.jpg" title="Systems thinking" alt="Systems thinking" width="80"/>&nbsp;
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a2c4e7fb-c3f0-45c5-a44c-a6fd2c7e7050/1920x" title="Purcupines" alt="Purcupines" width="80"/>&nbsp;
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/2bc2a3f6-141a-40f5-8c43-91253fc3cb7d/1920x" title="AI" alt="AI" width="80"/>&nbsp;
-<img src="https://ir.ozone.ru/s3/multimedia-6/wc1000/6218955030.jpg" title="AM" alt="AM" width="80"/>&nbsp;
 <img src="https://avatars.yandex.net/get-music-content/28589/7f848468.a.1980067-1/m1000x1000" title="Nirvana" alt="Nirvana" width="80"/>&nbsp;
-
+<img src="https://ir.ozone.ru/s3/multimedia-6/wc1000/6218955030.jpg" title="AM" alt="AM" width="80"/>&nbsp;
 
 ### Contact me:
 <div id="badges">
