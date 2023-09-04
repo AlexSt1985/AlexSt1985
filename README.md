@@ -2,17 +2,18 @@
   <img src="https://media.giphy.com/media/5zq67EYOQoVoc/giphy.gif" width="450"/>
 </div>
 <h1 align="center">
-  Hi there, I'm Alex
+  Привет, я - Александр!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👨‍🔬: About Me :
-Growing more in Data Science  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="70"> 
-- 👨‍🎓: Graduated from Yandex.Practicum as Data Analyst.
-- 👨‍💻: Looking for a full-time job as Data Analyst.
-- 👨‍⚕️: Also interested in psychology.
+### 👨‍🔬: Обо мне :
+Учусь анализировать и принимать решения на основе данных  <img src="https://media.giphy.com/media/ridvyKndz8v8IeuJjx/giphy.gif" width="70"> 
+- 👨‍🎓: Окончил курсы по Анализу данных в Яндекс.Практикум.
+- 👨‍⚕️: Также интересуюсь психологией и общением с людьми. Учусь слушать и говорить, а не пытаться читать мысли.
+- 👨‍💻: Нахожусь в поиске постоянной работы в сфере закупок и категорийного менеджемента. Также хотелось бы развивать навыки в продакт-менеджменте.
+  
 
-📚 Prefered books/movies/music:
+📚 Кое-что из предпочитаемых книг, фильмов и музыки:
 <img src="https://ir.ozone.ru/s3/multimedia-f/wc700/6602035623.jpg" title="Хлопок одной ладонью" alt="Хлопок одной ладонью" width="80"/>&nbsp;
 <img src="https://ir.ozone.ru/s3/multimedia-o/wc1000/6248682660.jpg" title="Systems thinking" alt="Systems thinking" width="80"/>&nbsp;
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a2c4e7fb-c3f0-45c5-a44c-a6fd2c7e7050/1920x" title="Purcupines" alt="Purcupines" width="80"/>&nbsp;
