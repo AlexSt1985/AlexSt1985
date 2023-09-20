@@ -23,7 +23,7 @@
 
 ### Contact me:
 <div id="badges">
-  <a href="https://t.me/alex_st_analyst">
+  <a href="https://t.me/AlexandrStrokov">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/> 
     
 #### :hammer_and_wrench: Languages and Tools :    
